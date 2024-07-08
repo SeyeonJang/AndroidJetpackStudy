@@ -2,7 +2,7 @@
 name: "Feature : 새로운 기능 \U0001F31F"
 about: 새로운 것을 배우고 실습해보았어요!
 title: Chapter N. 내용
-labels: ''
+labels: "\bFEAT"
 assignees: SeyeonJang
 
 ---
